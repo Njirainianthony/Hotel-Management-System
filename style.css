@@ -1,0 +1,22 @@
+h1{
+    color: gold;
+    background: darkblue;
+    text-align: center;
+    line-height: 90px;
+}
+h1:hover{
+    background-color: aqua;
+}
+p{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 30px ;
+}
+img{
+    width: 250px;
+    height: 200px;
+}
+img:hover{
+    opacity: 0.5;
+}

@@ -1,0 +1,41 @@
+#first{
+    background-color: aquamarine;
+    margin: 50px;
+    padding: 50px;
+}
+.mydiv{
+    padding: 40px;
+    margin-top: 40px;
+    background-color: darkcyan;
+}
+#main{
+    text-align: center;
+}
+.mymain{
+    display: flex;
+}
+.course1{
+    background-color: darkblue;
+    color: white;
+    padding: 20px;
+}
+#course2{
+    background-color: burlywood;
+    color: white;
+     padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+img{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+.course0{
+    text-align: center;
+}
+.course1:hover,#course2:hover{
+    background-color: cornflowerblue;
+}

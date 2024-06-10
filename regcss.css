@@ -1,0 +1,21 @@
+input[type=text]:focus,input[type=email]:focus,input[type=password]:focus,textarea:focus {
+    background-color: #098000;
+    width: 75%;
+    height: 40px;
+}
+form{
+    width: 60%;
+    margin: auto;
+    padding: 30px;
+    background-color: dodgerblue;
+
+}
+.first{
+    display: flex;
+    align-items: center;
+    margin-bottom: 4px;
+}
+label{
+    width: 25%;
+    margin-right: 2px;
+}

@@ -1,0 +1,16 @@
+#heading\ 1{
+    font-size: 60px;
+}
+#heading\ 2{
+    color: #0040ff;
+}
+#heading\ 3{
+    text-align: center;
+}
+.paragraph1{
+    font-style: italic;
+    font-size: 20px;
+}
+.paragraph2{
+    font-weight: bold;
+}
